@@ -2,5 +2,9 @@
     {
         "caption": "Greek: Expand Math",
         "command": "expand_math"
+    },
+    {
+    	"caption": "Greek: Eval",
+    	"command": "eval_math"
     }
 ]

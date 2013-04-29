@@ -1,0 +1,8 @@
+[
+    {
+        "keys": [
+            "ctrl+shift+m"
+        ], 
+        "command": "expand_math"
+    }
+]
